@@ -10,4 +10,10 @@ REST documentation can be found to URL : http://localhost:8080/swagger-ui/index.
 
 Below I am attaching image of documentation.
 
+<img src=https://github.com/Nitesh232/REST-API_Documentation_with_OpenAPI_3/blob/main/swagger.PNG width="1300" >
+
+
+Below is attached image for endpoint with POST method.
+
+
 <img src=https://github.com/Nitesh232/REST-API_Documentation_with_OpenAPI_3/blob/main/post.PNG width="1300" >
